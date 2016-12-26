@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'bookfinder'
-  s.version     = '1.0.3'
+  s.version     = '1.0.4'
   s.date        = '2016-12-25'
   s.summary     = "Ruby client for the Google Books API."
   s.description = "A ruby wrapper that leverages the Google Books API, making it easy to pull publically avaiable information relating to a book"
